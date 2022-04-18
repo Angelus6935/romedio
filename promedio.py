@@ -8,4 +8,5 @@ while (i <= n):
 	i+=1
 prom = suma / n 
 print("El promedio:",prom)
+print ("mensaje nuevo")
 	
